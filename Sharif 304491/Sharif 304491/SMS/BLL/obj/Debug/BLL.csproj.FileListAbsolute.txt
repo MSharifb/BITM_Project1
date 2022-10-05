@@ -1,0 +1,36 @@
+D:\Class Morning\Project\SMS\BLL\bin\Debug\BLL.dll
+D:\Class Morning\Project\SMS\BLL\bin\Debug\BLL.pdb
+D:\Class Morning\Project\SMS\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Class Morning\Project\SMS\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Class Morning\Project\SMS\BLL\obj\Debug\BLL.dll
+D:\Class Morning\Project\SMS\BLL\obj\Debug\BLL.pdb
+D:\Class Morning\Project\SMS\BLL\bin\Debug\DAL.dll
+D:\Class Morning\Project\SMS\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Class Morning\Project\SMS\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Class Morning\Project\SMS\BLL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\Class Morning\Project\SMS\BLL\bin\Debug\DAL.pdb
+D:\Class Morning\Project\SMS\BLL\obj\Debug\BLL.csproj.CopyComplete
+F:\ASP dot NET\ASP dotNet\Complete Poject\SMS\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+F:\ASP dot NET\ASP dotNet\Complete Poject\SMS\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+F:\ASP dot NET\ASP dotNet\Complete Poject\SMS\BLL\obj\Debug\BLL.dll
+F:\ASP dot NET\ASP dotNet\Complete Poject\SMS\BLL\obj\Debug\BLL.pdb
+F:\ASP dot NET\ASP dotNet\Complete Poject\SMS\BLL\bin\Debug\BLL.dll
+F:\ASP dot NET\ASP dotNet\Complete Poject\SMS\BLL\bin\Debug\BLL.pdb
+F:\ASP dot NET\ASP dotNet\Complete Poject\SMS\BLL\bin\Debug\DAL.dll
+F:\ASP dot NET\ASP dotNet\Complete Poject\SMS\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\ASP dot NET\ASP dotNet\Complete Poject\SMS\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\ASP dot NET\ASP dotNet\Complete Poject\SMS\BLL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+F:\ASP dot NET\ASP dotNet\Complete Poject\SMS\BLL\bin\Debug\DAL.pdb
+F:\ASP dot NET\ASP dotNet\Complete Poject\SMS\BLL\obj\Debug\BLL.csproj.CopyComplete
+G:\Alimul_305679\SMS\BLL\bin\Debug\BLL.dll
+G:\Alimul_305679\SMS\BLL\bin\Debug\BLL.pdb
+G:\Alimul_305679\SMS\BLL\bin\Debug\DAL.dll
+G:\Alimul_305679\SMS\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+G:\Alimul_305679\SMS\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+G:\Alimul_305679\SMS\BLL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+G:\Alimul_305679\SMS\BLL\bin\Debug\DAL.pdb
+G:\Alimul_305679\SMS\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+G:\Alimul_305679\SMS\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+G:\Alimul_305679\SMS\BLL\obj\Debug\BLL.csproj.CopyComplete
+G:\Alimul_305679\SMS\BLL\obj\Debug\BLL.dll
+G:\Alimul_305679\SMS\BLL\obj\Debug\BLL.pdb

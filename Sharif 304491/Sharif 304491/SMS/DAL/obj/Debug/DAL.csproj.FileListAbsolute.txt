@@ -1,0 +1,33 @@
+D:\Class Morning\Project\SMS\DAL\bin\Debug\DAL.dll
+D:\Class Morning\Project\SMS\DAL\bin\Debug\DAL.pdb
+D:\Class Morning\Project\SMS\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Class Morning\Project\SMS\DAL\obj\Debug\DAL.dll
+D:\Class Morning\Project\SMS\DAL\obj\Debug\DAL.pdb
+D:\Class Morning\Project\SMS\DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Class Morning\Project\SMS\DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Class Morning\Project\SMS\DAL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\Class Morning\Project\SMS\DAL\obj\Debug\DAL.csproj.CopyComplete
+F:\ASP dot NET\ASP dotNet\Complete Poject\SMS\DAL\bin\Debug\DAL.dll
+F:\ASP dot NET\ASP dotNet\Complete Poject\SMS\DAL\bin\Debug\DAL.pdb
+F:\ASP dot NET\ASP dotNet\Complete Poject\SMS\DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\ASP dot NET\ASP dotNet\Complete Poject\SMS\DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\ASP dot NET\ASP dotNet\Complete Poject\SMS\DAL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+F:\ASP dot NET\ASP dotNet\Complete Poject\SMS\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+F:\ASP dot NET\ASP dotNet\Complete Poject\SMS\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\ASP dot NET\ASP dotNet\Complete Poject\SMS\DAL\obj\Debug\DAL.csproj.CopyComplete
+F:\ASP dot NET\ASP dotNet\Complete Poject\SMS\DAL\obj\Debug\DAL.dll
+F:\ASP dot NET\ASP dotNet\Complete Poject\SMS\DAL\obj\Debug\DAL.pdb
+G:\Alimul_305679\SMS\DAL\bin\Debug\DAL.dll
+G:\Alimul_305679\SMS\DAL\bin\Debug\DAL.pdb
+G:\Alimul_305679\SMS\DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+G:\Alimul_305679\SMS\DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+G:\Alimul_305679\SMS\DAL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+G:\Alimul_305679\SMS\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+G:\Alimul_305679\SMS\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+G:\Alimul_305679\SMS\DAL\obj\Debug\DAL.csproj.CopyComplete
+G:\Alimul_305679\SMS\DAL\obj\Debug\DAL.dll
+G:\Alimul_305679\SMS\DAL\obj\Debug\DAL.pdb
+C:\Users\SHARIF\Desktop\BITM\Sharif 304491\Sharif 304491\SMS\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\SHARIF\Desktop\BITM\Sharif 304491\Sharif 304491\SMS\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\SHARIF\Desktop\BITM\Sharif 304491\Sharif 304491\SMS\DAL\obj\Debug\DAL.dll
+C:\Users\SHARIF\Desktop\BITM\Sharif 304491\Sharif 304491\SMS\DAL\obj\Debug\DAL.pdb
